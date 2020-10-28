@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "username": "haseeb",
+    "password": "password",
+    "firstName": "Syed",
+    "lastName": "Haseeb01",
+    "token":"'fake-jwt-token'"
+  },
+  {
+    "id":2,
+    "username": "hussaini",
+    "password": "password",
+    "firstName": "Syed",
+    "lastName": "Hussaini01",
+    "token":"'fake-jwt-token'"
+  }
+]
